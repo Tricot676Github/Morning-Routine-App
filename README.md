@@ -1,2 +1,27 @@
-# Morning-Routine-App
-The first version of a simple visual routine application built in Python for individuals who benefit from picture-supported task completiong or AAC.
+# Morning Routine App
+
+A simple visual task app built in Python.
+
+This project was created to support a morning routine using pictures and large buttons.
+
+## Features
+
+- Picture-based tasks
+- One task at a time
+- Progress display
+- Celebration screen
+- Restart routine button
+- Designed with accessibility in mind
+
+## Requirements
+
+Python
+Pillow
+
+## Installation
+
+pip install pillow
+
+## Run
+
+python morning_routine.py
